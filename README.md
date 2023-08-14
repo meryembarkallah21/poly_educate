@@ -1,48 +1,64 @@
-# Polyeducate Flutter App Readme 🎓
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-Presented by: Meryem Barkallah 🌟
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
-## Introduction
+## About Laravel
 
-Welcome to Polyeducate, a revolutionary Flutter-based application designed to redefine the way students find and schedule lessons with expert professors. Polyeducate offers an intuitive platform where students can easily connect with qualified educators for personalized academic support. 📚✨
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-## Features
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-### Sign In & Sign Up 🔑
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-Users can effortlessly create an account or log in to the app using their email and password, opening the door to a world of educational possibilities.
+## Learning Laravel
 
-### Home Page 🏠
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-The home page serves as a hub for students, displaying today's classes while allowing students to mark classes as completed. Additionally, the home page showcases all professors, enabling students to choose a professor and schedule appointments.
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-### Rating & Review 🌟📝
+## Laravel Sponsors
 
-Students have the power to provide feedback by rating and reviewing professors. A professor's profile page displays their details such as name, rating, school, and the number of students. Students can tap on a professor's name to access their profile and submit ratings and reviews.
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-### Favorites Page ❤️
+### Premium Partners
 
-Polyeducate understands the importance of favorite educators. Students can access a dedicated page that lists all their favorite professors, simplifying the process of booking lessons with their preferred educators.
+- **[Vehikl](https://vehikl.com/)**
+- **[Tighten Co.](https://tighten.co)**
+- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+- **[64 Robots](https://64robots.com)**
+- **[Cubet Techno Labs](https://cubettech.com)**
+- **[Cyber-Duck](https://cyber-duck.co.uk)**
+- **[Many](https://www.many.co.uk)**
+- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
+- **[DevSquad](https://devsquad.com)**
+- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
+- **[OP.GG](https://op.gg)**
+- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
+- **[Lendio](https://lendio.com)**
 
-### Appointments Page 📅
+## Contributing
 
-The appointments page displays all scheduled appointments, presenting details like the date, time, and the name of the professor. Students can keep track of their upcoming lessons with ease.
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-### Profile Page 🧑‍🎓
+## Code of Conduct
 
-The profile page provides students with a snapshot of their details. Additionally, it offers the convenience of logging out from the app when needed.
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Technology Stack 🚀
+## Security Vulnerabilities
 
-Polyeducate's innovative design and functionality are supported by a robust technology stack:
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-- **Frontend:** Developed using the Flutter framework, ensuring a seamless and responsive user interface.
-- **Backend:** Powered by Laravel, a versatile and powerful backend framework.
-- **API Communication:** Utilizes Dio to establish smooth communication between the frontend and backend.
-- **Database:** MySQL serves as the reliable repository for user data and app information.
+## License
 
-## Conclusion 📝
-
-Polyeducate is more than an app—it's an academic companion that caters to the diverse needs of students seeking personalized academic support. Its user-friendly interface, impressive range of features, and fluid design make it an indispensable tool for students at every level. Get ready to embark on an educational journey like no other with Polyeducate. 🎓🚀
-
-Thanks for joining us on this exciting academic adventure! 🙌📚
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
